@@ -1,2 +1,2 @@
 # first-use
-My first git repository
+My first git repositor<br> How to upload project
